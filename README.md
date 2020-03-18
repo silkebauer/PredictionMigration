@@ -1,8 +1,7 @@
 
-**Supplemental code for: "The role of information for the timing of Migration" by S. Bauer, J.M. McNamara, and Z. Barta**
+**Supplemental code for: "Environmental variability, reliability of information and the timing of migration" by S. Bauer, J.M. McNamara, and Z. Barta**
 
 Content
 
-* R-file - pred_mig-dos.R containing functions required for model.
-* R-file - run_dos.R containing the model run, including general setup and parameter settings
-
+* R-file - pred_mig-dos.R contains functions required for model.
+* R-file - run_dos.R contains the model run, including general setup and standard parameter settings
